@@ -1,5 +1,6 @@
 {
 	"FileVersion": 3,
+	"EngineAssociation": "4.26",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -15,7 +16,10 @@
 	"Plugins": [
 		{
 			"Name": "GoogleARCore",
-			"Enabled": true
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Android"
+			]
 		},
 		{
 			"Name": "OculusVR",
@@ -40,6 +44,5 @@
 				"TVOS"
 			]
 		}
-	],
-	"EngineAssociation": "4.26"
+	]
 }
