@@ -116,9 +116,9 @@
 "../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 115
 "../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 116
 "../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 117
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 118
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 119
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 120
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 118
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 119
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 120
 "../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 121
 "../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 122
 "../../../Engine/Content/EngineSounds/Master.uasset" 123
@@ -181,8 +181,8 @@
 "../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 180
 "../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 181
 "../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 182
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 183
-"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 184
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 183
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 184
 "../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 185
 "../../Plugins/Runtime/AR/ARUtilities/Content/Materials/DummyExternalTexture.uasset" 186
 "../../Plugins/Runtime/AR/ARUtilities/Content/Materials/M_PassthroughCamera.uasset" 187
@@ -195,106 +195,107 @@
 "../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Blueprints/HelloARHudWidget.uasset" 194
 "../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Assets/Textures/AmbientCubemap.uasset" 195
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 196
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uasset" 197
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Materials/MF_ConvolveTexture.uasset" 198
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Materials/MF_SampleSceneTextureNeighbourUVs.uasset" 199
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Materials/MF_ExtractDepth.uasset" 200
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Materials/MF_SampleSceneTextureNeighbourUVs.uasset" 197
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Materials/MF_ExtractDepth.uasset" 198
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uasset" 199
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Materials/MF_ConvolveTexture.uasset" 200
 "../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Materials/PP_Outliner_M.uasset" 201
 "../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Materials/PP_Outliner_Inst.uasset" 202
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Maps/HelloAR_BuiltData.uasset" 203
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Blueprints/MessageDialog.uasset" 204
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Blueprints/ARSessionErrorHandler.uasset" 205
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Assets/Textures/Andy_DiffuseGreen.uasset" 206
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Assets/Textures/Andy_AO.uasset" 207
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Assets/Materials/Andy_Mat_Default.uasset" 208
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Assets/Textures/Andy_DiffuseBlue.uasset" 209
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Assets/Materials/Andy_Mat_Blue.uasset" 210
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Assets/Textures/AndyBlobShadow.uasset" 211
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Assets/Materials/AndyBlobShadow_Mat.uasset" 212
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Assets/Meshes/AndyBlobShadow.uasset" 213
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Assets/Meshes/Andy_Mesh.uasset" 214
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Blueprints/AndyActor.uasset" 215
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 216
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 217
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Assets/Textures/TriGrid_Alpha.uasset" 218
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Assets/Materials/ARPlane_Mat.uasset" 219
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Blueprints/ARCorePlaneActor.uasset" 220
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Blueprints/ARSessionConfig.uasset" 221
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 222
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Meshes/Plane.uasset" 223
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyMaterials/MF_Decals.uasset" 224
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyMaterials/M_Decals.uasset" 225
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyBlueprints/BP_Decals.uasset" 226
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Fonts/SpaceGrotesk-Bold.uasset" 227
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Fonts/SpaceGrotesk-Bold_Font.uasset" 228
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/WidgetAR/wgPopUpText.uasset" 229
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyBlueprints/BP_PopUpText.uasset" 230
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyBlueprints/EARSessionRunning.uasset" 231
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Fonts/SulphurPoint-Bold.uasset" 232
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Fonts/SulphurPoint-Bold_Font.uasset" 233
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Bg__12_.uasset" 234
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/WidgetAR/wgArtBoard9.uasset" 235
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_BtnAR3Dots.uasset" 236
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_BtnARInteractive.uasset" 237
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_BtnResetAR.uasset" 238
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Blueprints/ARSessionConfig.uasset" 203
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Assets/Textures/TriGrid_Alpha.uasset" 204
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 205
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 206
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Assets/Materials/ARPlane_Mat.uasset" 207
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Blueprints/ARCorePlaneActor.uasset" 208
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Assets/Textures/Andy_AO.uasset" 209
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Assets/Textures/Andy_DiffuseGreen.uasset" 210
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Assets/Materials/Andy_Mat_Default.uasset" 211
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Assets/Textures/Andy_DiffuseBlue.uasset" 212
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Assets/Materials/Andy_Mat_Blue.uasset" 213
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Meshes/Plane.uasset" 214
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyMaterials/MF_Decals.uasset" 215
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyMaterials/M_Decals.uasset" 216
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyBlueprints/BP_Decals.uasset" 217
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Fonts/SpaceGrotesk-Bold.uasset" 218
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Fonts/SpaceGrotesk-Bold_Font.uasset" 219
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/WidgetAR/wgPopUpText.uasset" 220
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyBlueprints/BP_PopUpText.uasset" 221
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyBlueprints/EARSessionRunning.uasset" 222
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 223
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Icon__4_.uasset" 224
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Fonts/Imprima-Regular.uasset" 225
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Fonts/Imprima-Regular_Font.uasset" 226
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Bg__11_.uasset" 227
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Bg__9_.uasset" 228
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_BtnAR3Dots.uasset" 229
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_BtnARPin.uasset" 230
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_BtnResetAR.uasset" 231
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_GazeDot.uasset" 232
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Fonts/SulphurPoint-Bold.uasset" 233
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Fonts/SulphurPoint-Bold_Font.uasset" 234
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Bg__12_.uasset" 235
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/WidgetAR/wgArtBoard9.uasset" 236
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/WidgetAR/wgArtBoard7.uasset" 237
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_BtnARInteractive.uasset" 238
 "../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/WidgetAR/wgArtBoard10.uasset" 239
 "../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/WidgetAR/wgArtBoard8.uasset" 240
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Fonts/Imprima-Regular.uasset" 241
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Fonts/Imprima-Regular_Font.uasset" 242
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Icon__4_.uasset" 243
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Bg__11_.uasset" 244
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Bg__9_.uasset" 245
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_BtnARPin.uasset" 246
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_GazeDot.uasset" 247
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/WidgetAR/wgArtBoard7.uasset" 248
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Blueprints/HelloARManager.uasset" 249
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Maps/HelloAR.umap" 250
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Bg__1_.uasset" 251
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_BubbleCircle1.uasset" 252
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Title2.uasset" 253
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Logo__1_.uasset" 254
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Logo__2_.uasset" 255
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Logo__3_.uasset" 256
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/WidgetAR/wgArtBoard2.uasset" 257
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Fonts/Inter-SemiBold.uasset" 258
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Fonts/Inter-SemiBold_Font.uasset" 259
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Bg__2_.uasset" 260
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_BtnWelcomeScreen.uasset" 261
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_BubbleCircle2.uasset" 262
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Geter.uasset" 263
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/WidgetAR/wgArtBoard3.uasset" 264
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Fonts/Inter-Regular.uasset" 265
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Fonts/Inter-Regular_Font.uasset" 266
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Bg__16_.uasset" 267
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_BtnQuit.uasset" 268
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_TitleLogo.uasset" 269
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/WidgetAR/wgSplashScreen.uasset" 270
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/WidgetAR/wgQuitValidation.uasset" 271
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyMaps/MapsIntro.umap" 272
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Bg__15_.uasset" 273
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Bg__3_.uasset" 274
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Bg__5_.uasset" 275
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_BtnMenuAbout.uasset" 276
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_BtnMenuAR.uasset" 277
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_BtnMenuInfo.uasset" 278
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_BtnMenuQuestion.uasset" 279
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Title3.uasset" 280
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Logo__3_1_.uasset" 281
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/WidgetAR/wgArtBoard4.uasset" 282
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Fonts/SulphurPoint-Regular.uasset" 283
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Fonts/SulphurPoint-Regular_Font.uasset" 284
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Icon__12_.uasset" 285
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Assets/Meshes/Andy_Mesh.uasset" 241
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Assets/Textures/AndyBlobShadow.uasset" 242
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Assets/Materials/AndyBlobShadow_Mat.uasset" 243
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Assets/Meshes/AndyBlobShadow.uasset" 244
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Blueprints/AndyActor.uasset" 245
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Blueprints/AndyActor_Child.uasset" 246
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Blueprints/HelloARManager.uasset" 247
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Blueprints/MessageDialog.uasset" 248
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Blueprints/ARSessionErrorHandler.uasset" 249
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Maps/HelloAR_BuiltData.uasset" 250
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Maps/HelloAR.umap" 251
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Bg__1_.uasset" 252
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_BubbleCircle1.uasset" 253
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Title2.uasset" 254
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Logo__1_.uasset" 255
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Logo__2_.uasset" 256
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Logo__3_.uasset" 257
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/WidgetAR/wgArtBoard2.uasset" 258
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Fonts/Inter-SemiBold.uasset" 259
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Fonts/Inter-SemiBold_Font.uasset" 260
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Bg__2_.uasset" 261
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_BtnWelcomeScreen.uasset" 262
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_BubbleCircle2.uasset" 263
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Geter.uasset" 264
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/WidgetAR/wgArtBoard3.uasset" 265
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Fonts/Inter-Regular.uasset" 266
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Fonts/Inter-Regular_Font.uasset" 267
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Bg__16_.uasset" 268
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_BtnQuit.uasset" 269
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_TitleLogo.uasset" 270
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/WidgetAR/wgSplashScreen.uasset" 271
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/WidgetAR/wgQuitValidation.uasset" 272
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyMaps/MapsIntro.umap" 273
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Bg__15_.uasset" 274
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Bg__3_.uasset" 275
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Bg__5_.uasset" 276
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_BtnMenuAbout.uasset" 277
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_BtnMenuAR.uasset" 278
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_BtnMenuInfo.uasset" 279
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_BtnMenuQuestion.uasset" 280
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Title3.uasset" 281
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Logo__3_1_.uasset" 282
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/WidgetAR/wgArtBoard4.uasset" 283
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Icon__5_.uasset" 284
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Icon__3_.uasset" 285
 "../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Icon__2_.uasset" 286
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Icon__3_.uasset" 287
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Icon__5_.uasset" 288
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Bg__6_.uasset" 289
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Bg__7_.uasset" 290
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_BubbleCircle3.uasset" 291
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/WidgetAR/wgArtBoard5.uasset" 292
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Icon__1_.uasset" 293
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Icon__6_.uasset" 294
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Icon__7_.uasset" 295
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/WidgetAR/wgArtBoard6.uasset" 296
-"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyMaps/MapsMainMenu.umap" 297
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 298
-"../../../Engine/Content/Maps/Entry.umap" 299
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Icon__12_.uasset" 287
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Fonts/SulphurPoint-Regular.uasset" 288
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Fonts/SulphurPoint-Regular_Font.uasset" 289
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Bg__6_.uasset" 290
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_Bg__7_.uasset" 291
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Image_BubbleCircle3.uasset" 292
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/WidgetAR/wgArtBoard5.uasset" 293
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Icon__7_.uasset" 294
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Icon__6_.uasset" 295
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyAssets/Image/Icon__1_.uasset" 296
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/WidgetAR/wgArtBoard6.uasset" 297
+"../../../../../My Project Latihan/UE4/UNIDAAR1/Content/Mine/MyMaps/MapsMainMenu.umap" 298
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 299
+"../../../Engine/Content/Maps/Entry.umap" 300
