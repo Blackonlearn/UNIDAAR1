@@ -9,6 +9,7 @@ This project developed in UNREAL ENGINE 4.26 based on Google ARCORE and all of 3
 You can see it's video documentation here : https://drive.google.com/drive/folders/1cILHcyujFXcRiHPbwMCvmSoFAzepAwRL  (it documented by my fellow because iam not a documenter and i dont want it so dont expect more)
 
 # THIS PROJECT HAS COVERED ALL OF THE FUNCTION NEEDED, SO YOU COULD DEVELOP IT FURTHERMORE EASLY LIKE USING A TEMPLATE, GIVE IT A SHOT!!
+there're something to fix though but it's not crucial, but if you wanna fix it, fix it!
 
 # HOW TO USE
   1. Clone this repository to your PC
