@@ -2,7 +2,7 @@
 
 This project is intended for UNIDA GONTOR (UNIVERSITY OF DARUSSALAM GONTOR) that applying AR Technology as a map regarding to it's academic community's mobility.
 
-This project's purpose is to give a knowledge about UNIDA GONTOR's area, building, important room and other important things to it's academic community.
+This project's purpose is to give information about UNIDA GONTOR's area, building, important room and other important things to it's academic community.
 
 This project based on Google AR CORE and Programmed in UNREAL ENGINE 4.26 BLUEPRINTS with 3D Asset made in BLender,
 
