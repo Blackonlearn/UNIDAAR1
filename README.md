@@ -6,7 +6,7 @@ This project's purpose is to give information about UNIDA GONTOR's area, buildin
 
 This project developed in UNREAL ENGINE 4.26 based on Google ARCORE and all of 3D Assets made in BLender.
 
-You can see it's video documentation here : https://drive.google.com/drive/folders/1cILHcyujFXcRiHPbwMCvmSoFAzepAwRL  (it documented by my fellow because iam not a documenter and i dont want it so dont expect more)
+You can see it's video documentation here : hthttps://drive.google.com/drive/folders/1gE44huZ3TyQpfUk1YNcfc0fOZdJcR49G?usp=sharing (it documented by my fellow because iam not a documenter and i dont want it so dont expect more)
 
 # choose latest branch to get latest update of this project 🙂
 THIS PROJECT HAS COVERED ALL OF THE FUNCTION NEEDED, SO YOU COULD DEVELOP IT FURTHERMORE EASLY LIKE USING A TEMPLATE, GIVE IT A SHOT!!
